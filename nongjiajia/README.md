@@ -1,8 +1,9 @@
-# nongjiajiass
+# 农家家展示站点
 
 ## Project setup
 ```
-npm install
+    npm install
+
 ```
 
 ### Compiles and hot-reloads for development
